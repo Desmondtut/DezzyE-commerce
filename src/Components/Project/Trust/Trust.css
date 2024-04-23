@@ -1,0 +1,9 @@
+.details {
+    display: flex;
+    justify-content: space-between;
+    bottom: 10px;
+    /* border: 1px solid ; */
+    justify-content: space-around;
+    margin-top: 20px;
+    font-size: 20px;
+}
